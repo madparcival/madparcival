@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madparcival&label=Profile%20views&color=0e75b6&style=flat" alt="madparcival" /> </p>
 
-- 🌱 I’m currently A Magento Developer Intern at **Hysteresis Pvt Ltd**
+- 🌱 I’m currently A Magento Developer at **Hysteresis Pvt Ltd**
 
 - 🌱 I’m currently learning **Full Stack Web Development in Selfmade Ninja Academy**
 
